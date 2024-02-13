@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "reelsId": 0,
+      "referenceName": "Admin",
+      "logoUrl": null,
+      "referenceType": 0,
+      "referenceId": "0",
+      "isSeen": false,
+      "reels": [
+        {
+          "id": 250,
+          "url": "https://insaattanfiles.blob.core.windows.net/userfiles/Users/Reels/0f174fa6-aab4-436f-8491-f98ae1b2aebb/Photos/0f174fa6-aab4-436f-8491-f98ae1b2aebb",
+          "isExpired": false,
+          "endDate": "2024-02-13T10:00:50.2223847",
+          "acceptedDate": "2024-02-12T10:00:50.2223844",
+          "isSeen": true,
+          "referenceId": "0",
+          "referenceName": null,
+          "logoUrl": null,
+          "referenceType": 0,
+          "isVideo": false,
+          "durationInSeconds": 10
+        },
+        {
+          "id": 251,
+          "url": "https://insaattanfiles.blob.core.windows.net/userfiles/Users/Reels/bbcd8cde-4050-46ab-91a1-450e3a100d8c/Photos/bbcd8cde-4050-46ab-91a1-450e3a100d8c",
+          "isExpired": false,
+          "endDate": "2024-02-13T10:00:41.4798219",
+          "acceptedDate": "2024-02-12T10:00:41.4798217",
+          "isSeen": true,
+          "referenceId": "0",
+          "referenceName": null,
+          "logoUrl": null,
+          "referenceType": 0,
+          "isVideo": false,
+          "durationInSeconds": 10
+        },
+        {
+          "id": 252,
+          "url": "https://insaattanfiles.blob.core.windows.net/userfiles/Users/Reels/68d9d8ff-e98c-4916-893b-d74187ac361c/Photos/68d9d8ff-e98c-4916-893b-d74187ac361c",
+          "isExpired": false,
+          "endDate": "2024-02-13T10:00:33.4467496",
+          "acceptedDate": "2024-02-12T10:00:33.446749",
+          "isSeen": false,
+          "referenceId": "0",
+          "referenceName": null,
+          "logoUrl": null,
+          "referenceType": 0,
+          "isVideo": false,
+          "durationInSeconds": 10
+        },
+        {
+          "id": 253,
+          "url": "https://insaattanfiles.blob.core.windows.net/userfiles/Users/Reels/a24201fe-cd4d-44be-b76d-2c9163947c78/Photos/a24201fe-cd4d-44be-b76d-2c9163947c78",
+          "isExpired": false,
+          "endDate": "2024-02-13T10:00:11.50149",
+          "acceptedDate": "2024-02-12T10:00:11.5012343",
+          "isSeen": false,
+          "referenceId": "0",
+          "referenceName": null,
+          "logoUrl": null,
+          "referenceType": 0,
+          "isVideo": true,
+          "durationInSeconds": 30
+        },
+        {
+          "id": 254,
+          "url": "https://insaattanfiles.blob.core.windows.net/userfiles/Users/Reels/c63230a6-0580-4a9e-9c48-3beb764e8b21/Photos/c63230a6-0580-4a9e-9c48-3beb764e8b21",
+          "isExpired": false,
+          "endDate": "2024-02-13T10:00:21.2487878",
+          "acceptedDate": "2024-02-12T10:00:21.2487875",
+          "isSeen": false,
+          "referenceId": "0",
+          "referenceName": null,
+          "logoUrl": null,
+          "referenceType": 0,
+          "isVideo": true,
+          "durationInSeconds": 5
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "reelsId": 0,
+      "referenceName": "apluspy",
+      "logoUrl": "https://insaattanfiles.blob.core.windows.net/test/Companies%5C21%5CPhotos%5Cd7802a8b-e008-4dc0-9715-4b4a66e712d2.png",
+      "referenceType": 1,
+      "referenceId": "21",
+      "isSeen": false,
+      "reels": [
+        {
+          "id": 255,
+          "url": "https://insaattanfiles.blob.core.windows.net/userfiles/Users/Reels/63efa700-2abb-44c0-a335-eca79cc60aa1/Photos/63efa700-2abb-44c0-a335-eca79cc60aa1",
+          "isExpired": false,
+          "endDate": "2024-02-13T11:47:00.0705021",
+          "acceptedDate": "2024-02-12T11:47:00.0705018",
+          "isSeen": false,
+          "referenceId": "21",
+          "referenceName": null,
+          "logoUrl": null,
+          "referenceType": 1,
+          "isVideo": true,
+          "durationInSeconds": 4
+        },
+        {
+          "id": 256,
+          "url": "https://insaattanfiles.blob.core.windows.net/userfiles/Users/Reels/07764144-91a5-41d1-9e12-b4fef25f2dfc/Photos/07764144-91a5-41d1-9e12-b4fef25f2dfc",
+          "isExpired": false,
+          "endDate": "2024-02-13T11:47:06.7369988",
+          "acceptedDate": "2024-02-12T11:47:06.7369985",
+          "isSeen": false,
+          "referenceId": "21",
+          "referenceName": null,
+          "logoUrl": null,
+          "referenceType": 1,
+          "isVideo": true,
+          "durationInSeconds": 13
+        },
+        {
+          "id": 257,
+          "url": "https://insaattanfiles.blob.core.windows.net/userfiles/Users/Reels/89d8c230-e558-48d7-95a8-02cc2a5302f9/Photos/89d8c230-e558-48d7-95a8-02cc2a5302f9",
+          "isExpired": false,
+          "endDate": "2024-02-13T11:47:12.8595055",
+          "acceptedDate": "2024-02-12T11:47:12.8595052",
+          "isSeen": false,
+          "referenceId": "21",
+          "referenceName": null,
+          "logoUrl": null,
+          "referenceType": 1,
+          "isVideo": false,
+          "durationInSeconds": 10
+        }
+      ]
+    }
+  ]
+}
